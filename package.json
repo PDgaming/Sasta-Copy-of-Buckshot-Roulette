@@ -1,0 +1,27 @@
+{
+  "name": "sasta-buckshot-roulett-copy",
+  "version": "1.0.0",
+  "description": "This is a sasta copy of buckshot roulett",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "PD",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.7.0",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.2.12",
+    "nanospinner": "^1.1.0"
+  }
+}
